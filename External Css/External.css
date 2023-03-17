@@ -1,0 +1,86 @@
+body{
+    background-color:#B5F1CC;
+    border: 0px;
+    margin: 0px 0px 0px 0px auto;
+}
+
+h1{
+    margin: auto 0px auto auto;
+}
+
+.Top_container{
+    background-image:#FFE3E1;
+}
+
+.menu th{
+    border-bottom:1px solid rgb(100, 100, 100);
+    padding: 15px;
+    margin: 50px auto 50px auto;
+}
+
+.menu a{
+    text-decoration: none;
+}
+
+.menu th:hover{
+    color: red;
+    font-size: 20px;
+}
+
+.Top_container{
+    background-color: antiquewhite;
+}
+
+.bodydiv th,td {
+    border: 1px solid rgb(100, 100, 100);
+    padding: 10px 10px;
+}
+
+.Watches img{
+    height: 300x;
+    width: 400px;
+}
+
+table button {
+    color: #000000;
+    background-color: #2adf9a;
+    font-size: 19px;
+    border: 2px solid #378b54;
+    border-radius: 100px;
+    padding: 15px 30px;
+    letter-spacing: 1px;
+    cursor: pointer;    
+}
+table button:hover {
+    color: #2d63c8;
+    background-color: #ffffff;
+}
+
+.Handbags img{
+    height: 300px;
+    width: 400;
+}
+
+.Shoes img{
+    height: 300px;
+    width: 400px;
+}
+
+.bottom_contaner{
+    background-color: white;
+    border: 0px;
+    padding: 40px;
+    text-align: center;
+}
+
+.bottom_contaner a {
+    padding: 10px;
+    margin: 20px;
+}
+
+.bottom_contaner p{
+    position: relative;
+    top: 20px;
+}
+
+    

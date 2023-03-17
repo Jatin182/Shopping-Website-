@@ -1,0 +1,105 @@
+body{
+    background-color:#B5F1CC;
+    border: 0px;
+    margin: 0px 0px 0px 0px auto;
+}
+
+h1{
+    margin: auto 0px auto auto;
+}
+
+.Top_container{
+    background-image:#FFE3E1;
+}
+
+.menu th{
+    border-bottom:1px solid rgb(100, 100, 100);
+    padding: 15px;
+    margin: 50px auto 50px auto;
+}
+
+.menu a{
+    text-decoration: none;
+}
+
+.menu th:hover{
+    color: red;
+    font-size: 20px;
+}
+
+.Top_container{
+    background-color: antiquewhite;
+}
+
+.login{
+    width: 382px;
+    overflow: hidden;
+    margin: auto;
+    margin: 20 0 0 450px;
+    padding: 80px;
+    background: #23463f;
+    border-radius: 15px ;
+
+}
+h2{
+text-align: center;
+color: #277582;
+padding: 20px;
+}
+label{
+color: #08ffd1;
+font-size: 17px;
+}
+#Uname{
+width: 300px;
+height: 30px;
+border: none;
+border-radius: 3px;
+padding-left: 8px;
+}
+#Pass{
+width: 300px;
+height: 30px;
+border: none;
+border-radius: 3px;
+padding-left: 8px;
+
+}
+#log{
+width: 300px;
+height: 30px;
+border: none;
+border-radius: 17px;
+padding-left: 7px;
+color: blue;
+
+
+}
+span{
+color: white;
+font-size: 17px;
+}
+
+.loginn a{
+    float: right;
+    background-color: grey;
+}
+
+.bottom_contaner{
+    background-color: white;
+    border: 0px;
+    padding: 40px;
+    text-align: center;
+}
+
+.bottom_contaner a {
+    text-decoration: none;
+    padding: 10px;
+    margin: 20px;
+}
+
+.bottom_contaner p{
+    position: relative;
+    top: 20px;
+}
+
